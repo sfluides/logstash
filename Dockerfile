@@ -1,3 +1,3 @@
 # Dockerfile
 
-FROM logstash:2.4.0-1z
+FROM logstash:2.4.0-1
